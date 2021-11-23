@@ -1,0 +1,21 @@
+#form{
+    width: 100%;
+}
+
+.room{
+    width: 500px;
+    height: 100px;
+    background-color: goldenrod;
+    display: block;
+}
+
+#sit{
+    width: 100%;
+}
+
+.ch{
+    width: 500px;
+    height: 100px;
+    background-color: rebeccapurple;
+    display: block;
+}
